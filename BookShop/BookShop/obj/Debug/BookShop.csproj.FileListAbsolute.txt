@@ -1,0 +1,17 @@
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\bin\Debug\BookShop.exe
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.exe
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.Login.resources
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.Books.resources
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.Users.resources
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.dashboard.resources
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\bin\Debug\BookShop.exe.config
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\bin\Debug\Guna.UI2.dll
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\bin\Debug\Guna.UI.dll
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.Billing.resources
+C:\TUGAS KULIAH ITATS\SEMESTER 6\PEMROGRAMAN DOTNET\BookShop\BookShop\obj\Debug\BookShop.AdminLogin.resources
